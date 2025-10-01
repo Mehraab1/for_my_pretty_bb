@@ -22,7 +22,7 @@ You are not just my girlfriend, you’re the most special part of my life.
 You make me smile, you make my heart race, and you make me want to be a better version of myself.
 
 I don’t know what the future holds, but I know one thing for sure.
-I want that future with you and I will give it my all to have rest of my life chapters written with you in it.'
+I want that future with you and I will give it my all to have rest of my life chapters written with you in it.`
 
   useEffect(() => {
     if (cardOpen && !typingComplete) {
@@ -278,5 +278,6 @@ I want that future with you and I will give it my all to have rest of my life ch
     </motion.div>
   )
 }
+
 
 
